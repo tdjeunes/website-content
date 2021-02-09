@@ -32,8 +32,9 @@ There are no requirements for development HTML. Docker is required to build Jeky
 Quickstart
 -----
 
-Creating your own site from this
------
+Install Docker then run:
+
+    ./scripts/ci.sh
 
 Jekyll
 -----
@@ -42,7 +43,9 @@ HTML websites are just old school files written in HTML, CSS and Javascript.
 
 Jekyll websites can have extra information which is used to "build" the HTML websites.
 
+This project contains an example HTML file at ./docs/index.html and an example Jekyll file at ./docs/jekyll-simple.html
 
-starterkitjekyll
+Resources
+-----
 
 * https://github.com/BlackrockDigital/startbootstrap

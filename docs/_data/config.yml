@@ -1,0 +1,14 @@
+items:
+  - menu:
+    - id: home
+      label: Home
+      href: '#'
+    - id: about
+      label: About
+      href: '#'
+    - id: services
+      label: Services
+      href: '#'
+    - id: contact
+      label: Contact
+      href: '#'

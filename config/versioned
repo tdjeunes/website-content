@@ -1,0 +1,3 @@
+DOCKERPORT=8082
+DOCKERNETWORK=starterkitjekyll
+DOCKERNAME=starterkitjekyll

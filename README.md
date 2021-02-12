@@ -1,6 +1,8 @@
 Jekyll or HTML starterkit
 =====
 
+[![CircleCI](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/starterkit-jekyll/tree/master)
+
 Starterkit for new HTML or Jekyll websites.
 
 HTML or Jekyll, what's the difference?

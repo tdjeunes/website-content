@@ -24,8 +24,8 @@ items:
         path: /
     menu:
       - id: home
-        label: Plans
-        href: /es/plan/
+        label: Planes de Servicios
+        href: /es/planes/
       - label: FAQs
         href: /es/faqs/
       - label: Contact

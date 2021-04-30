@@ -46,7 +46,13 @@ HTML websites are just old school files written in HTML, CSS and Javascript.
 
 Jekyll websites can have extra information which is used to "build" the HTML websites.
 
-This project contains an example HTML file at ./docs/index.html and an example Jekyll file at ./docs/jekyll-simple.html
+This project contains an example HTML file at ./docs/index.html and an example Jekyll file at ./docs/jekyll/jekyll-simple.html
+
+To see Jekyll in action, fork this project and enable GitHub pages on your project; or else install Docker, then run
+
+    ./scripts/deploy.sh
+
+And visit http://0.0.0.0:8082/jekyll/jekyll-simple.html.
 
 When to choose Jekyll vs LAMP (Wordpress, Drupal...) and other stacks
 -----
@@ -86,7 +92,42 @@ To see it in action, install Docker, then run:
 
 Then visit http://0.0.0.0:8082/jekyll-feature-rich.html.
 
+Here are some of the cool features of this Jekyll site:
+
+* Content types with their own fields; these are defined in `./docs/jekyll_blogposts/_posts/*`, `./jekyll_events/_posts/*`, `./jekyll_pages/_posts/*`.
+* Blog posts
+
+To come:
+
+* Blog posts categorized by tag
+* Limited Wysiwyg capabilities
+* Image, file, PDF library
+* Events
+* Multilingual
+* Our Team section
+* Our Clients section
+* Contact Us and form
+* Interactive map
+* Alert banner
+* Popup banner
+* Comments
+* Photo gallery
+* Not found page (https://jekyllrb.com/tutorials/custom-404-page/)
+
 Resources
 -----
 
 * https://github.com/BlackrockDigital/startbootstrap
+* https://vole.wtf/text-generator/
+
+Images
+-----
+
+Images from [Unsplash](https://unsplash.com):
+
+* https://unsplash.com/photos/Q5qHoTs2tFI
+* https://unsplash.com/photos/iV1b4jCQz3A
+* https://unsplash.com/photos/8ZcYCX5hmQ8
+* https://unsplash.com/photos/BZBGi6y9N9c
+* https://unsplash.com/photos/GDGf6sUJ6H4
+* https://unsplash.com/photos/Cz7nbP8yeMY

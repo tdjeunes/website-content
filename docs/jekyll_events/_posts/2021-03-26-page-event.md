@@ -1,8 +1,9 @@
 ---
 title: New Year's Eve Party
-permalink: /events/new-years-eve-party-2025/
+permalink: /events/new-years-eve-party-2199/
+layout: event
 redirect_from:
-  - /2025/
+  - /2199/
 ---
 Knight Rider, a shadowy flight into the dangerous world of a man who does not exist. Michael Knight, a young loner on a crusade to champion the cause of the innocent, the helpless in a world of criminals who operate above the law.
 

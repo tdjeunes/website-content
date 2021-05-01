@@ -51,6 +51,21 @@ collections:
                 fields:
                   - { label: 'label, for example "Home" or "Blog"', name: 'label', widget: 'string' }
                   - { label: 'href, for example /blog/ or https://duckduckgo.com', name: 'href', widget: 'string' }
+      - label: "Translations"
+        name: "translations"
+        create: false
+        file: "docs/_data/translations.yml"
+        fields:
+          - label: "Translations"
+            name: "translation_items"
+            widget: "list"
+            fields:
+              - label: "Original string in English"
+                name: "title"
+                widget: "string"
+              - label: "String in French"
+                name: "fr"
+                widget: "string"
   - name: 'pages'
     create: true
     label: 'Pages'

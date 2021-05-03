@@ -15,6 +15,12 @@
 
   {% include global_css.html %}
 
+  {% comment %}
+  This is an example of how to debug something.
+  On the generated page, open the console and type in $('.jekylldebug').show();
+  {% endcomment %}
+  {% assign debug = debug | append: ',just an example of how to debug something' }
+
 </head>
 
 <body>
@@ -91,6 +97,7 @@
   </footer>
 
   {% include global_js.html %}
+  {% include debug.html %}
 
 </body>
 

@@ -3,6 +3,8 @@ color_palette:
   dark_bg_back: "#054062"
 api:
   mapbox: pk.eyJ1IjoiZGN5Y2xlIiwiYSI6ImNrb2J3NGZzOTAxYnAycHFkbzkxbzlzZWYifQ.DdCrbOuTjU1z4Z-wi2NpNA
+  mapbox_desc: Dcycle Account Token, you should use your own here instead as this
+    will change
 items:
   - title: My Cool Website
     lang: en

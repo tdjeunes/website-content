@@ -1,8 +1,12 @@
 ---
 title: New Year's Eve Party
 dates:
+  - start: 2024-12-31T18:30:23.579Z
+    end: 2025-01-01T06:30:25.145Z
   - start: 2021-12-31T18:30:23.579Z
     end: 2022-01-01T06:30:25.145Z
+  - start: 2022-12-31T18:30:23.579Z
+    end: 2023-01-01T06:30:25.145Z
 layout: event
 permalink: /events/new-years-eve-party-2199/
 redirect_from:

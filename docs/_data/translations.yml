@@ -10,3 +10,6 @@ translation_items:
   - title: Loading
     fr: En téléchargement
     en: Loading
+  - title: Your timezone is
+    fr: Votre fuseau horaire est
+    en: Your timezone is

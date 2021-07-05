@@ -104,7 +104,6 @@ To come:
 * Blog posts categorized by tag
 * Limited Wysiwyg capabilities
 * Image, file, PDF library
-* Events
 * Multilingual
 * Our Team section
 * Our Clients section
@@ -115,6 +114,17 @@ To come:
 * Comments
 * Photo gallery
 * Not found page (https://jekyllrb.com/tutorials/custom-404-page/)
+
+Events
+-----
+
+Events can be a challenge in Static Sites, because if we generate our site in 2021, we want events coming up in 2022 to show up, but if we do not regenerate our static site in 2022, then visit the site in 2023, we no longer want the 2022 event to show up.
+
+We get around this by using Javascript to populate the event page.
+
+Events are available at /api/v1/events.json, then are parsed, depending on the current date, at /events.
+
+If you want to simulate how the site will look at any date in the past or future, visit /events?simulate_current_date=2021-07-05T19:40:47.382Z
 
 Resources
 -----

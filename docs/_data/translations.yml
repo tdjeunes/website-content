@@ -7,3 +7,6 @@ translation_items:
   - title: Error loading events
     fr: Erreur de chargement des événements
     en: Error loading events
+  - title: Loading
+    fr: En téléchargement
+    en: Loading

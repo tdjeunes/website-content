@@ -12,11 +12,14 @@
           - { label: "List of events", value: "eventlist" }
           - { label: "List of blog posts", value: "bloglist" }
           - { label: "Basic pages", value: "page" }
-      - { label: 'Path2 (for example /privacy-policy/)', name: 'permalink', widget: 'string', pattern: ['^\/[a-z-_0-9\/]*\/$', "Must start and end with a slash, and have only lower case letters, _, -, and numbers"] }
+      - label: 'Path (for example /privacy-policy/)'
+        name: 'permalink'
+        widget: 'string'
+        {% include netlifycms_validate_path.html %}
       - label: "Redirect From (for example /some-other-path/ ,/yet-another-path/)"
         name: "redirect_from"
         widget: "list"
-        pattern: ['^\/[a-z-_0-9\/]*\/$', "Must start and end with a slash, and have only lower case letters, _, -, and numbers"]
+        {% include netlifycms_validate_path.html %}
       - label: "Images"
         name: "img"
         widget: "list"

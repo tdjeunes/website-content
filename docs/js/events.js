@@ -9,7 +9,6 @@ let MyEvents = {
     }
   },
   addEventsAtLeastOne: function(events) {
-    $('.your-timezone-is').html(this.localTimezone());
     this.addToVisibleArea('template-your-timezone-is');
     let that = this;
     events.forEach(function(e) {
@@ -97,6 +96,7 @@ let MyEvents = {
     $('.i-am-a-date-display-me-for-humans').each(function() {
       $( this ).html(that.humanSingleDate($( this ).html()));
     });
+    $('.your-timezone-is').html(this.localTimezone());
   },
   pad: function(n) {
     // https://stackoverflow.com/a/14324851/1207752

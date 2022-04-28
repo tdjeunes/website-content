@@ -14,7 +14,7 @@ FILE="$1"
 echo ""
 echo "*** Validating HTML on file $FILE ***"
 echo ""
-docker run --rm -v "$(pwd)":/code dcycle/html-validate:1 --drop-empty-elements no "$FILE"
+docker run --rm -v "$(pwd)":/code dcycle/html-validate:2 --drop-empty-elements no "$FILE"
 #
 # echo ""
 # echo "*** Done validating HTML on file $1 ***"

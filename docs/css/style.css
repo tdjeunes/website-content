@@ -52,3 +52,7 @@ body {
 .js-template-hidden {
   display: none;
 }
+
+.tdj-fullwidth {
+  width: 100%;
+}

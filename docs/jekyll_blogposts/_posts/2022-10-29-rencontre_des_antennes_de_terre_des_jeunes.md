@@ -2,6 +2,8 @@
 title: Rencontre des antennes de Terre des jeunes
 antenne: Québec
 layout: blog
+img:
+  - /media/capture_d_e_cran_le_2022-10-29_a_12.38.49.png
 ---
 Toutes les antennes de TDJ étaient conviées à se rencontrer en ligne en ce 29 octobre. Malgré quelques problèmes de connexion, nous avons pu échanger sur les différents projets en cours et sur les défis du réseau et le soutien aux antennes.
 

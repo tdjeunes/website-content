@@ -18,4 +18,6 @@ Nous avions discuté des problèmes logistiques de gérer de grandes quantité d
 
 Aussi, il est crucial d'avoir les moyens de faire le suivi avant même d'envisager la plantation. Pour la première année après la plantation, il est important de faire un suivi très régulier. Pour la suite, un suivi aux quelques mois jusqu'à maturité des arbres est crucial (protéger contre les animaux, les feux de brousse, la sécheresse). La période de suivi peut durer deux ans, et ensuite nous avons l'évaluation (documenter l'atteinte des objectifs, les succès, les ratés, les raisons des ratés).
 
+Joël nous a présenté son système d'irrigation qui assure la croissance de ses papayerss.
+
 Le réseau Terre des jeunes a la volonté de poursuivre l'habitude d'avoir des rencontres internationales régulières, aux trois mois. La prochaine rencontre est fixée au 25 mars 2023.

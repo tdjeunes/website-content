@@ -8,7 +8,7 @@ img:
   - /media/img-20221222-wa0005.jpg
   - /media/img-20221222-wa0004.jpg
   - /media/img-20221222-wa0003.jpg
-  - https://aho.bio/
+  - /media/team_aho.bio.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>

@@ -3,7 +3,7 @@ title: Rencontre mondiale du printemps 2023 du réseau Terre des jeunes
 antenne: Québec
 layout: blog
 img:
-  - /media/2023-03-25-tdj.jpg
+  - /media/2023-03-25-tdj-2.jpg
 ---
 Ce matin à 9h heure de Montréal, a eu lieu notre traditionnelle rencontre à distance des antennes des antennes de Terre des jeunes. Étaient représentées:
 

@@ -1,5 +1,5 @@
 ---
-title: Rapport d’activité Foire Sacré-Royal 24, 25 et 26 juin 2022/ AJPV Terre
+title: Rapport d’activité Foire Sacré-Royal 24, 25 et 26 juin 2022 / AJPV Terre
   Des Jeunes Petit-Goâve
 antenne: Haïti
 layout: blog

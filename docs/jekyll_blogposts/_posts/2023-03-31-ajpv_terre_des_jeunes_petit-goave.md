@@ -5,13 +5,13 @@ layout: blog
 img:
   - /media/banniere_ajpv_terre_des_jeunes_petit-goave.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ img:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -309,9 +309,9 @@ img:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -335,45 +335,35 @@ img:
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\[if !supportLists]-->1-   <!--\[endif]-->Présentation  de l’AJPV
+<!--\\[if !supportLists]-->1-   <!--\\[endif]-->Présentation  de l’AJPV
 
-L’Association de la Jeunesse Progressiste de Vialet (AJPV), est une association Haïtienne, non confessionnel et à but non lucratif dûment enregistré auprès du Ministère  des Affaires  Sociales et du Travail (MAST) au numéro STC 00225. Fondée le 20 décembre 2002 après une longue réflexion de ses membres fondateurs sur les approches actuelles mises de l’avant pour accélérer le développement  des communautaires et  des jeunes, l’organisme a rapidement confirmé sa place sur la scène locale  en mettant en œuvre des initiatives à impact durable dans les domaines de l’agriculture et de l’environnement, de l'éducation et  la démocratie et santé communautaire et finance inclusive. L’APJV  a su développer une expertise dans le domaine de la  finance solidaire  appliquée qui lui permet de viabiliser  une CAISSE POPULAIRE SOCIMED, aider secteur informel, de développer l’entreprenariat. De même, ses interventions dans le domaine de la lutte contre les changements climatiques ont augmenté la conscientisation des jeunes face aux enjeux climatiques. Dans la région des Palmes, AJPV travaille avec les organisations du milieu dans le développement social de nos collectivités, le rapprochement interculturel et l’intégration des personnes âges. L’expérience acquise au fil de ces vingt (20) années d’activités nous permet aujourd’hui de garder le cap et de continuer à offrir nos services aux différentes communautés qui sont dans le besoin tant à Vialet qu’au niveau régional.
+L’Association de la Jeunesse Progressiste de Vialet (AJPV), est une association Haïtienne, non confessionnel et à but non lucratif dûment enregistré auprès du Ministère  des Affaires  Sociales et du Travail (MAST) au numéro STC 03225. Fondée le 20 décembre 2002 après une longue réflexion de ses membres fondateurs sur les approches actuelles mises de l’avant pour accélérer le développement  des communautaires et  des jeunes, l’organisme a rapidement confirmé sa place sur la scène locale  en mettant en œuvre des initiatives à impact durable dans les domaines de l’agriculture et de l’environnement, de l'éducation et  la démocratie et santé communautaire et finance inclusive. L’APJV  a su développer une expertise dans le domaine de la  finance solidaire  appliquée qui lui permet de viabiliser  une CAISSE POPULAIRE SOCIMED, aider secteur informel, de développer l’entreprenariat. De même, ses interventions dans le domaine de la lutte contre les changements climatiques ont augmenté la conscientisation des jeunes face aux enjeux climatiques. Dans la région des Palmes, AJPV travaille avec les organisations du milieu dans le développement social de nos collectivités, le rapprochement interculturel et l’intégration des personnes âges. L’expérience acquise au fil de ces vingt (20) années d’activités nous permet aujourd’hui de garder le cap et de continuer à offrir nos services aux différentes communautés qui sont dans le besoin tant à Vialet qu’au niveau régional.
 
      Dans le cadre du projet CHAMP World Concern Haïti /USAID a passé avec succès l’évaluation par le TOCAT et retenu pour la phase de renforcement  du volet capacity building  comme l’une meilleure association de région sur 120 associations de la région goâvienne l’en 2012.
 
- 
-
-<!--\[if !supportLists]-->**2-**    <!--\[endif]-->**Objectifs de l’AJPV**
-
-
+<!--\\[if !supportLists]-->\*\*2-\*\*    <!--\\[endif]-->\*\*Objectifs de l’AJPV\*\*
 
 L’objectif principal de l’AJPV est de promouvoir le développement socioéconomique et culturel des jeunes**.**
 
            Les objectifs spécifiques poursuivis sont :
 
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->Etre celle de l’AJPV devenue point de passage pour les jeunes, un partenaire sûre à haute valeur ajoutée dans la région des palmes.
 
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->Investir dans le renforcement capital social des jeunes, en respectant pleinement leur autonomie, la formation professionnelle des jeunes.
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->Etre celle de l’AJPV devenue point de passage pour les jeunes, un partenaire sûre à haute valeur ajoutée dans la région des palmes.
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->Soutenir les partenaires locaux dans leurs efforts de protéger la santé publique au sein de leurs communautaire
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->Investir dans le renforcement capital social des jeunes, en respectant pleinement leur autonomie, la formation professionnelle des jeunes.
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->Soutenir l’éducation de base et les formations professionnelles sein de communautés défavorisées  
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->Soutenir les partenaires locaux dans leurs efforts de protéger la santé publique au sein de leurs communautaire
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->Développer l’Agro-Écologie dans la montagne.
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->Soutenir l’éducation de base et les formations professionnelles sein de communautés défavorisées  
-
-<!--\[if !supportLists]-->-       <!--\[endif]-->Développer l’Agro-Écologie dans la montagne.
-
- 
-
-<!--\[if !supportLists]-->**3-**    <!--\[endif]-->**Réalisation de l’AJPV**
+<!--\\[if !supportLists]-->\*\*3-\*\*    <!--\\[endif]-->\*\*Réalisation de l’AJPV\*\*
 
 Les activités ont été réalisées par l’AJPV pendant vingt (20) dernières années dans la région des  Palmes avec l’appui des partenaires locales et internationales, les activités comprennent l’appui à la formation professionnelle des jeunes défavorisés à travers la région des Palmes par IDEJEN/EDC/USAID une subvention de 3, 750,000.00 HTG, l’organisation du festival FESTI SACRE-ROYAL a été financée par la Cour des Comptes à une hauteur de 40,000.00 HTG, Pwoteje Anviwonman Nou est un projet subvention par l’AJPV à une hauteur de 100,000.00 HTG, Sensibilisation aux élections par la formation avec des jeunes sur l’appui de  NDI, Appui aux écoliers au niveau primaire financé par IDEJEN/ UNICEF pour  un montant de 250, 000.00 HTG, Enfomatik pou Jèn yo financé par SCAC de l’ambassade de France en Haïti à une hauteur de 918,500.00 HTG, Appui à  la formation des jeunes sous les tentes à Petit-Goâve par People In Need  pour un montant 4,218,500.00 HTG, Appui à la construction du centre d’informatique AJPV par CODEGAZ  pour un montant de 1,398, 949.00 HTG, la construction des Abris Semi-permanent pour les écoles détruites dans le séisme à une hauteur de 3,206,641.27 HTG et la couleur de la reconstruction par la formation en peinture financé par Fondation Culture et Création/ Fondation de France pour un montant de 1,000,000.00 HTG. La formation de 25 jeunes en carrelage financé par CAMUSAT pour un montant de 250,000.00 HTG.
-
- 
 
 <!--EndFragment-->
 

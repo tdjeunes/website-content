@@ -9,7 +9,7 @@ img:
 ---
 Bientôt la fin des travaux du projet Dji Sanya phase 2!
 
-E﻿n rappel est le fruit d'une collaboration entre l'association SEEPAT et Bayer AG. Il bénéficie du financement de Bayer AG et va contribuer à l'amélioration des condition d'accès des populations du  village Wérou et de l'école dudit village à l'eau potable et à l'assainissement.
+E﻿n rappel, ce projet est le fruit d'une collaboration entre l'association SEEPAT et Bayer AG. Il bénéficie du financement de Bayer AG et va contribuer à l'amélioration des condition d'accès des populations du  village Wérou et de l'école dudit village à l'eau potable et à l'assainissement. 
 
 L﻿e bilan à ce stade est le suivant: 
 

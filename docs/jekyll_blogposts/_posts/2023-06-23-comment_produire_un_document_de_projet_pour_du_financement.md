@@ -2,8 +2,7 @@
 title: Comment produire un document de projet pour du financement
 antenne: Québec
 layout: blog
-img:
-  - /media/screenshot_2023-06-23_at_2.01.28_pm.jpg
+img: []
 ---
 Pour avoir de bonnes chances de trouver du financement, il est crucial de commencer par définir votre projet avant même de penser à des bailleurs de fonds. 
 

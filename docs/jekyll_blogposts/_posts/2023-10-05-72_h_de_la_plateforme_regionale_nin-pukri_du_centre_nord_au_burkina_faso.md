@@ -4,6 +4,8 @@ antenne: Seepat Burkina Faso
 layout: blog
 tags: []
 img:
+  - /media/img-20231005-wa0012.jpg
+  - /media/img-20231005-wa0011.jpg
   - /media/img-20231005-wa0014.jpg
 ---
 Début  ce matin 05 octobre 2023 des 72 heures de la plateforme régionale Nim Pukri du centre nord au Burkina Faso.

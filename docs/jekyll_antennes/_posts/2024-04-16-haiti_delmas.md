@@ -1,5 +1,5 @@
 ---
-logo_image: /media/countries/default-antenna-logo.png
+logo_image: /media/default-antenna-logo.png
 country:  Haïti
 title: Delmas, Haïti
 url: https://www.terredesjeunes.org/delmas-haiti.html

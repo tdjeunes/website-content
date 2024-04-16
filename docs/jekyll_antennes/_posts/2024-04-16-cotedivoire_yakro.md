@@ -1,5 +1,5 @@
 ---
-logo_image: /media/countries/default-antenna-logo.png
+logo_image: /media/default-antenna-logo.png
 country: Côte d'Ivoire
 title: TDJ Yakro
 url: https://www.terredesjeunes.org/yakro.html

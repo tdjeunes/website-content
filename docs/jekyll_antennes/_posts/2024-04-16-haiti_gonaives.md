@@ -1,5 +1,5 @@
 ---
-logo_image: /media/countries/haiti/gonaives-logo.png
+logo_image: /media/gonaives-logo.png
 country: Haïti
 title: Gonaïves, Haïti
 url: https://www.terredesjeunes.org/gonaives.html

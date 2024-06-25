@@ -26,3 +26,9 @@ items:
       - id: home
         label: Accueil
         href: https://www.terredesjeunes.org
+thumbor:
+  url: https://images.terredesjeunes.org
+  secret: unsafe
+  size: 500x
+  content_url: https://contenu.terredesjeunes.org
+  enable: true

@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ex
 
 # The token must be set as an environment variable
 if [ -v "$DIGITALOCEAN_ACCESS_TOKEN" ]; then

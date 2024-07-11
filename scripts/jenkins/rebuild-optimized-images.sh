@@ -51,7 +51,7 @@ rm -rf tdj-image-mapping
 ssh-agent bash -c 'ssh-add "$TDJ_IMAGE_MAP_DEPLOY_PRIVATE_KEY"; git clone git@github.com:alberto56/tdj-image-mapping.git'
 cd tdj-image-mapping
 cp ../mapping.json ./docs/
-git add mapping.json
+git add ./docs/mapping.json
 git config --global user.email "do-not-reply@mediatribe.net"
 git config --global user.name "Jenkins (I am a robot)"
 git commit -m "Jenkins automatically updating mapping.json"

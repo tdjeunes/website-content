@@ -44,6 +44,7 @@ fi
 #   root@"$IP":docker-tdj-images/thumbor-example/mapping.json mapping.json
 echo "HELLO WORLD" > mapping.json
 cat mapping.json
+rm -rf tdj-image-mapping
 ssh-agent bash -c 'ssh-add "$TDJ_IMAGE_MAP_DEPLOY_PRIVATE_KEY"; git clone git@github.com:alberto56/tdj-image-mapping.git'
 cd tdj-image-mapping
 cp ../mapping.json .

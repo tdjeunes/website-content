@@ -7,4 +7,4 @@ set -e
 git clone https://github.com/dcycle/thumbor-example.git
 mv docs/media thumbor-example/my-media
 cd thumbor-example
-./scripts/generate-image-map.sh
+./scripts/generate-image-map.sh ./my-media http://contenu.terredesjeunes.org 800x mapping.json

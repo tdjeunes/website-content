@@ -11,6 +11,11 @@ if [ -v "$DIGITALOCEAN_SSH_KEY" ]; then
   >&2 echo "Please set the DIGITALOCEAN_SSH_KEY environment variable"
   exit 1
 fi
+# The THUMBOR_SECURITY_KEY key must be set as an environment variable
+if [ -v "$THUMBOR_SECURITY_KEY" ]; then
+  >&2 echo "Please set the THUMBOR_SECURITY_KEY environment variable"
+  exit 1
+fi
 
 # Create a droplet
 DROPLET_NAME=docker-tdj-images
@@ -29,4 +34,4 @@ ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
 scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
   -r * root@"$IP":docker-tdj-images
 ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
-  root@"$IP" "cd docker-tdj-images && ./scripts/install-docker-and-rebuild-optimized-images.sh"
+  root@"$IP" "cd docker-tdj-images && export THUMBOR_SECURITY_KEY=$THUMBOR_SECURITY_KEY && ./scripts/install-docker-and-rebuild-optimized-images.sh"

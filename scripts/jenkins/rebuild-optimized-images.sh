@@ -1,5 +1,9 @@
 #!/bin/bash
-set -ex
+#
+# Rebuild optimized image list.
+# See http://github.com/dcycle/thumbor-example
+#
+set -e
 
 # The token must be set as an environment variable
 if [ -v "$DIGITALOCEAN_ACCESS_TOKEN" ]; then

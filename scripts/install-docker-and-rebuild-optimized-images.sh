@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Install Docker, then rebuild.
+# Install Docker, then optimize images.
 #
 set -e
 

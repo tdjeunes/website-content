@@ -4,7 +4,7 @@
 #
 # See https://github.com/dcycle/thumbor-example.
 #
-set -e
+set -ex
 
 rm -rf ./unversioned/optimized-images
 mkdir -p ./unversioned/optimized-images

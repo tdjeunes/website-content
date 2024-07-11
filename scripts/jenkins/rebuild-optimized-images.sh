@@ -41,5 +41,5 @@ scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
 ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
   root@"$IP" "cd docker-tdj-images && export THUMBOR_SECURITY_KEY=$THUMBOR_SECURITY_KEY && ./scripts/install-docker-and-rebuild-optimized-images.sh"
 scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no \
-  root@"$IP":docker-tdj-images/mapping.json mapping.json
+  root@"$IP":thumbor-example/mapping.json mapping.json
 cat mapping.json

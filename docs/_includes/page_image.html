@@ -2,10 +2,8 @@
   <div class="image-gallery-wrapper clearfix">
     {% for img in page_img %}
       {% if site.data.config.thumbor.enable == true %}
-        {% assign thumbor_url = site.data.config.thumbor.url | append: '/' | append: site.data.config.thumbor.secret %}
-        {% assign size = site.data.config.thumbor.size %}
-        {% assign content_url = site.data.config.thumbor.content_url | append: '/' | append: img %}
-        {% assign image = thumbor_url | append: '/' | append: size | append: '/' | append: content_url %}
+        {% assign data_src = img %}
+        {% assign data_size = page.img_size %}
       {% else %}
         {% assign image = img %}
       {% endif %}

@@ -2,7 +2,7 @@
 _site
 .jekyll-cache
 docs/.jekyll-metadata
-config/unversioned
+*unversioned*
 do-not-commit
 ### Cordova app is made inside a hello folder
 mobile_app

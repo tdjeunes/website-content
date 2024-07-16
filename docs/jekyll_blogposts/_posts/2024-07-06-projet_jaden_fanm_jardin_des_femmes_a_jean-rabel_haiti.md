@@ -10,7 +10,6 @@ img:
   - /media/screenshot_2024-07-06_at_10.01.12.jpg
   - /media/screenshot_2024-07-06_at_10.01.15.jpg
   - /media/screenshot_2024-07-06_at_10.01.20.jpg
-img_size: x200
 ---
 Le projet « Jaden Fanm » est une initiative communautaire et participative visant à combattre l’insécurité alimentaire des familles en milieu rural par le développement de l’agroécologie.
 

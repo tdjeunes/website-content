@@ -33,7 +33,7 @@
               }
 
               // Get optimized image URL from mapping data
-              let optimizedSrc = mappingData[dataSrc];
+              let optimizedSrc = mappingData[dataSrc.replace('/media', '')];
 
               if (optimizedSrc && optimizedSrc[dataSize]) {
                 const secureurlpart = optimizedSrc[dataSize]

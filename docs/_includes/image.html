@@ -16,5 +16,5 @@
   {% endif %}
 {% endfor %}
 <a class="lightbox" href="{{ url }}">
-  <img src="{{ image }}"{% if alt %} alt="{{ alt }}"{% endif %}{% if caption %} data-caption="{{ caption }}"{% endif %}>
+  <img src="{{ image }}" {% if data_src %} data-src="{{ data_src }}"{% endif %}{% if data_size %} data-size="{{ data_size }}"{% endif %} {% if alt %} alt="{{ alt }}"{% endif %}{% if caption %} data-caption="{{ caption }}"{% endif %}>
 </a>

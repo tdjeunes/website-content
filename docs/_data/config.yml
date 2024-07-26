@@ -27,6 +27,6 @@ items:
         label: Accueil
         href: https://www.terredesjeunes.org
 thumbor:
-  image_file_url: http://image-mapping.terredesjeunes.org/mapping.json
+  image_file_url: https://image-mapping.terredesjeunes.org/mapping.json
   image_server_domain: https://images.terredesjeunes.org
   enable: true

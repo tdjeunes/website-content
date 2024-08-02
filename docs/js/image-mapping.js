@@ -44,7 +44,9 @@
               else {
                 // using imageFileUrl, we cannot map the unoptimized image to
                 // an optimized image. We will use the original image.
-                console.log("Optimized image path not found.");
+                console.log("Optimized image path not found; we will output the list of available sizes, and the requested size. It is possible that the requested size has not been generated and should be.");
+                console.log(optimizedSrc);
+                console.log(dataSize);
                 imgSrc = dataSrc;
               }
               // Update img src with optimized URL

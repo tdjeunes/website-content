@@ -25,7 +25,12 @@
           images.forEach(img => {
               // Read data attributes
               const dataSrc = img.getAttribute('data-src');
-              const dataSize = img.getAttribute('data-size');
+              let dataSize = img.getAttribute('data-size');
+
+              if (!dataSize) {
+                dataSize = '800x';
+              }
+
               const lightboxAnchor = img.closest('a');
               let imgSrc = "";
               if (!dataSrc) {

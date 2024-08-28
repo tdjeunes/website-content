@@ -2,6 +2,8 @@
 title: Le site web de Terre des jeunes, une courte histoire technique
 antenne: Québec
 layout: blog
+img:
+  - /media/screenshot_2024-08-27_at_22.13.58.jpg
 ---
 ## Un peu d'histoire
 

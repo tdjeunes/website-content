@@ -38,4 +38,4 @@ Nous parlons aussi du défi du financement qui est souvent non-récurrent. Pour 
 
 Nous parlons du projet de Synécoculture au Cameroun, financé à hauteur de 166,000 USD par le CTCN du PNUE (ONU).
 
-M. Huaorani fait une mise à jour sur le projet Terre des jeunes Grèce: un terrain de 1ha est en location par TDJ et le bail vient d'être renouvelé. L'objectif est de faire de la permaculture et de former des bénévoles qui pourront aller aider avec des projets en Afrique.
+Riel fait une mise à jour sur le projet Terre des jeunes Grèce: un terrain de 1ha est en location par TDJ et le bail vient d'être renouvelé. L'objectif est de faire de la permaculture et de former des bénévoles qui pourront aller aider avec des projets en Afrique.

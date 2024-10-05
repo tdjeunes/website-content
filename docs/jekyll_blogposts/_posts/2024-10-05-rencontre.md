@@ -14,6 +14,8 @@ Le 5 octobre 2024 a eu lieu la traditionnelle rencontre de Terre des jeunes par 
 * Stéphanie Kambeti, de SOLIFEDE (Nord Kivu, R. D. Congo)
 * Bohui Mélaire, de TDJ Côte-d'Ivoire.
 * Alida de TDJ Sénégal.
+* Jean Nkeshima de TDJ Burundi.
+* Dieuseul Augustin de TDJ Gonaïves (Haïti)
 
 M. Kembeti nous parle des dernières activités de ICCOD. [Plus d'informatiosn ici](https://contenu.terredesjeunes.org/jekyll_blogposts/2024/10/04/iccod.html).
 
@@ -39,3 +41,7 @@ Nous parlons aussi du défi du financement qui est souvent non-récurrent. Pour 
 Nous parlons du projet de Synécoculture au Cameroun, financé à hauteur de 166,000 USD par le CTCN du PNUE (ONU).
 
 Riel fait une mise à jour sur le projet Terre des jeunes Grèce: un terrain de 1ha est en location par TDJ et le bail vient d'être renouvelé. L'objectif est de faire de la permaculture et de former des bénévoles qui pourront aller aider avec des projets en Afrique.
+
+Dieuseul Augustin de TDJ Gonaïves (Haïti) nous parle des activités génératrices de revenu de services de nettoyage, "Big cleaning services", dans sa ville.
+
+Jean Nkeshima de TDJ Burundi nous parle de grands vents qui ont déraciné certains arbres fruitiers, notamment des papayers, mis en place dans le cadre d'un projet précédent.

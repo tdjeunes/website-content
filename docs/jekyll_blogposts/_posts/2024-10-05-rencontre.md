@@ -15,9 +15,9 @@ Le 5 octobre 2024 a eu lieu la traditionnelle rencontre de Terre des jeunes par 
 * Bohui Mélaire, de TDJ Côte-d'Ivoire.
 * Alida de TDJ Sénégal.
 
-M. Kembeti nous parle des dernières activités de ICCOD. Voir xxx.
+M. Kembeti nous parle des dernières activités de ICCOD. [Plus d'informatiosn ici](https://contenu.terredesjeunes.org/jekyll_blogposts/2024/10/04/iccod.html).
 
-Stéphanie de SOLIFEDE nous parle de ses projets d'arbres fruitiers pour enfants vulnérables, et charbon vert. Voir xxx.
+Stéphanie de SOLIFEDE nous parle de ses projets d'arbres fruitiers pour enfants vulnérables, et charbon vert. [Plus d'informatiosn ici](https://contenu.terredesjeunes.org/jekyll_blogposts/2024/10/03/solifede.html).
 
 Alida de TDJ Sénégal nous parle de la mise en place de son bureau exécutif.
 

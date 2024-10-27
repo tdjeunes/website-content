@@ -67,3 +67,5 @@ Le processus de sélection sera le suivant:
 * Chaque candidate et candidat recevra un feedback sur sa candidature, et son pointage reçu.
 
 Merci et bonne chance!
+
+(Image générée par Midjourney (AI) 6.1 le 2024-10-27 avec la commande "web design in the middle of the jungle with no electricity")

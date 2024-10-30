@@ -13,3 +13,5 @@ Terre des jeunes Cameroun, conjointement avec l'ONG CASE et Terre des jeunes tra
 Le projet a débuté à l'été 2024 et se terminera en octobre 2025.
 
 La synécoculture, c'est une méthode agricole qui évite le labour et les intrants chimiques, favorisant l'interaction entre les espèces, pour une meilleure résilience face aux changements climatiques.
+
+=> [Voir notre page Facebook ici](https://www.facebook.com/profile.php?id=61566495247549)

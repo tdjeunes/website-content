@@ -1,7 +1,7 @@
 ---
 title: Terre des jeunes Cameroun, partenaire de du PNUE pour un projet de
   synécoculture
-antenne: Cameroun
+antenne: Québec
 layout: blog
 img:
   - /media/screenshot_2024-10-30_at_14.26.12.jpg

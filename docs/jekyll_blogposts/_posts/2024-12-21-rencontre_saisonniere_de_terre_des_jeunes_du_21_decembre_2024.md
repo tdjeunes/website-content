@@ -19,7 +19,7 @@ Lydie SERVANIN, VP de Terre des jeunes, discute du projet de plantation de mangr
 
 Terre des jeunes aura 40 ans en 2025. On se fait une réflexion sur des voyages possibles en 2025 pour souligner ça.
 
-Un représentant de SOLIFEDE, actif au Sud-Kivo en R.D. Congo, nous parle de ses activités de plantation d'arbres dans la région, et d'éducation numérique au service des réfugiés du Burundi.
+Matundanya de SOLIFEDE, actif au Sud-Kivo en R.D. Congo, nous parle de ses activités de plantation d'arbres dans la région, et d'éducation numérique au service des réfugiés du Burundi.
 
 Antji OUACHÉE de Terre des jeunes Martinique était présent aussi.
 

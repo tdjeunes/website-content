@@ -1,5 +1,5 @@
 ---
-nom: KOUASSI BOHUI ELAIRE
+nom: KOUASSI BOHUI MELAIRE
 titre: TERRE DES JEUNES CÔTE D'IVOIRE
 image: /media/melaire.jpg
 x: https://x.com/BohuiMelair

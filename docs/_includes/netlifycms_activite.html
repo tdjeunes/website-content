@@ -1,0 +1,15 @@
+  - name: 'activite'
+    create: true
+    label: 'Activités'
+    folder: 'docs/jekyll_activites/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - label: "Titre, par exemple Éducation à l'environnement"
+        name: 'titre'
+        widget: 'string'
+      - label: Image
+        name: image
+        widget: image
+      - label: 'Contenu'
+        name: 'body'
+        widget: 'markdown'

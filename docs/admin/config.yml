@@ -20,3 +20,4 @@ collections:
 {% include netlifycms_antenne.html %}
 {% include netlifycms_bio.html %}
 {% include netlifycms_partenaire.html %}
+{% include netlifycms_activite.html %}

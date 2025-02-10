@@ -1,6 +1,6 @@
 ---
 nom: Prince Muloko
-titre: PRESIDENT NATIONAL
+titre: INFORMATICIEN WEB MASTER
 image: /media/prime.jpg
 ---
 Bachelor en Télécoms , Master en intelligence artificielle ML

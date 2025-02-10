@@ -16,5 +16,5 @@ Formations :
 ✓Fintech training in MBA
 ✓Programtion Web avec Django, Django-Rest
 ✓Graphysme
-✓Webmaster & webcontent
-✓Community Manager
+- WEBMASTER ET CONTENTS 
+

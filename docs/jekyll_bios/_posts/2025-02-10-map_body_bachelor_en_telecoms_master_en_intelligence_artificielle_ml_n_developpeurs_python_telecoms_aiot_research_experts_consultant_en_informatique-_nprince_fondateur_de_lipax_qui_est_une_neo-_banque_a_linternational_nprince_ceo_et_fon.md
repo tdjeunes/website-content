@@ -18,10 +18,3 @@ Formations :
 ✓Graphysme
 ✓Webmaster & webcontent
 ✓Community Manager
-
-Activités : 
-
-- Développement Web
-- CEO et fondateur Lipax gestion des tout les activités de ma future banques en ligne.
-- Gestion Administrative de mo centre de formation au Burundi EIOT AFRICA
-

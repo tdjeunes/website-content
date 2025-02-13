@@ -8,4 +8,4 @@ La reforestation, notion plus ambitieuse, vise à restaurer un écosystème fore
 
 Il est donc essentiel que le reboisement contribue à la sécurité alimentaire, aux soins de santé et à une vie décente pour les populations locales, en répondant à leurs besoins de manière durable.
 
-https://contenu.terredesjeunes.org/media/2024-10-projet_arbre_fuitier_pour_les_enfants_vulnerabres.docx.pdf 
+[https://contenu.terredesjeunes.org/media/2024-10-projet_arbre_fuitier_pour_les_enfants_vulnerabres.docx.pdf ](https://contenu.terredesjeunes.org/jekyll_blogposts/2024/10/03/solifede.html)

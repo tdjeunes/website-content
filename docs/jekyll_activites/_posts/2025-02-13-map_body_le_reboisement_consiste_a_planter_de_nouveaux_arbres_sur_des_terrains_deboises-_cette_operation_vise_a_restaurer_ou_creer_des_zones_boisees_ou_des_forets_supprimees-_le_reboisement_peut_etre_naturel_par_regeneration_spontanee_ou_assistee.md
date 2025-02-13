@@ -1,0 +1,11 @@
+---
+titre: "LES ENJEUX DU REBOISEMENT: CAS DE SOLIFED RDC"
+image: /media/reboisement_rdc.jpg
+---
+Le reboisement consiste à planter de nouveaux arbres sur des terrains déboisés. Cette opération vise à restaurer ou créer des zones boisées ou des forêts supprimées. Le reboisement peut être naturel, par régénération spontanée ou assistée, ou artificiel, par des actions humaines. La régénération naturelle se fait par dissémination des graines et propagules via le vent, l’eau ou les animaux. Le reboisement artificiel, quant à lui, implique la plantation d’arbustes pour restaurer la densité du couvert végétal, stabiliser les sols érodés ou reconstituer les stocks de bois d'œuvre.
+
+La reforestation, notion plus ambitieuse, vise à restaurer un écosystème forestier sur une surface significative. L'objectif du reboisement est de permettre aux populations de subvenir à leurs besoins sur le long terme, en améliorant leurs conditions de vie. Il est crucial d’éviter que les arbres replantés soient à nouveau coupés en raison des difficultés socio-économiques des populations locales.
+
+Il est donc essentiel que le reboisement contribue à la sécurité alimentaire, aux soins de santé et à une vie décente pour les populations locales, en répondant à leurs besoins de manière durable.
+
+https://contenu.terredesjeunes.org/media/2024-10-projet_arbre_fuitier_pour_les_enfants_vulnerabres.docx.pdf 

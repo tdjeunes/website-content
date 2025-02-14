@@ -1,5 +1,5 @@
 ---
-titre: EDUCATION A L'ENVIRONNEMENT EN MILIEU SCOLAIRE EN CÔTE D'IVOIRE
+title: EDUCATION A L'ENVIRONNEMENT EN MILIEU SCOLAIRE EN CÔTE D'IVOIRE
 image: /media/dscn1470_fileminimizer_.jpg
 ---
 L'éducation à l'environnement vise à sensibiliser les individus à l'importance de la protection de l'environnement et à encourager des comportements respectueux de la nature. Elle se base sur l'idée que chacun a un rôle à jouer dans la préservation de la planète.
@@ -78,7 +78,7 @@ Pour choisir la meilleure approche pour l'éducation à l'environnement, il est 
 
 **Axes principaux de l'EEDD** :
 
-1. **Forme** (comment transmettre et apprendre) : 
+1. **Forme** (comment transmettre et apprendre) :
 
    * Approche scientifique et sensible (sensorielle, symbolique, imaginaire).
    * Complémentarité des approches ludique, artistique, cognitive et rationnelle.

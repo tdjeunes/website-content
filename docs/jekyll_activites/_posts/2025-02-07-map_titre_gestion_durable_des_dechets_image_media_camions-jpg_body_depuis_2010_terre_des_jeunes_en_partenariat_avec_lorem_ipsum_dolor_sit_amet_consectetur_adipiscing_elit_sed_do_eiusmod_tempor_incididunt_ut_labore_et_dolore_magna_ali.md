@@ -1,5 +1,5 @@
 ---
-titre: Gestion durable des déchets Bioénergie Haïti
+title: Gestion durable des déchets Bioénergie Haïti
 image: /media/camions.jpg
 ---
 **BIOENRGIE DURABLE**
@@ -28,6 +28,6 @@ image: /media/camions.jpg
 * La FAO et ses partenaires ont développé une démarche d'appui pour une bioénergie durable.
 * Cette démarche inclut l'approche Bioénergie et sécurité alimentaire (BEFS) et les Indicateurs de durabilité du Partenariat mondial sur la bioénergie (GBEP).
 
-**INITIATIVE DE BIO ENERGIE ET TERRE DES JEUNES HAÏTI** 
+**INITIATIVE DE BIO ENERGIE ET TERRE DES JEUNES HAÏTI**
 
 Fondée en 2012 par Biothermica Technologies Inc (Canada), Terre des jeunes transnational (Canada) et terre des jeunes Gonaïves (Haïti), Bioénergie Haïti (BEH) est une société technologique à but non-lucratif active dans la région de l’Artibonite et dans la commune des Gonaïves. Elle assure la mise en place graduelle d’un système de collecte et d’enfouissement technique des matières résiduelles d’origine municipale et agricole avec valorisation énergétique des biogaz (électricité/gaz bouteille), contribuant ainsi au développement durable, la lutte aux changements climatiques et la protection de la santé et de l'environnement.

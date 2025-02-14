@@ -1,5 +1,5 @@
 ---
-titre: RESILIENCE CLIMATIQUE LOCALE GRACE A LA SYNECOCULTURE
+title: RESILIENCE CLIMATIQUE LOCALE GRACE A LA SYNECOCULTURE
 image: /media/cameroun.png
 ---
 **LA SYNECOCULTURE**, une technique agricole à haut rendement dans la région nord du Cameroun (principalement dans la commune de Garoua 2 et à Figuil (Mayo-Louti)) sous EC IICT

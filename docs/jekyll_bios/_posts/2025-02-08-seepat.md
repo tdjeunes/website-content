@@ -1,0 +1,7 @@
+---
+nom: ASSIMI Sanogo
+titre: Président National
+image: /media/assimi_bf.png
+---
+Président de l’Association SEEPAT, M. Assimi Sanogo relate les bénéfices de leur collaboration avec WEP Burkina grâce au  Projet de renforcement des capacités des Organisation de la Société Civile pour l’accès aux financements climatiques. L’objectif du projet était de contribuer à la création d’une expertise nationale en matière de mobilisation des fonds climatiques à travers le renforcement des capacités  des OSC. 
+ SEEPAT qui veut dire Sauvons l’environnement, l’eau potable et l’assainissement pour tous est une association basée à Bobo-Dioulasso et œuvrant dans le domaine de la protection de l’environnement, de l’accès à l’eau potable et à l’assainissement.

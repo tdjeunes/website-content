@@ -1,5 +1,5 @@
 ---
-title: Web Master Tdj RDC
+title: WEB MASTER TDJ RDC
 nom: Prince Muloko
 image: /media/prime.jpg
 ---

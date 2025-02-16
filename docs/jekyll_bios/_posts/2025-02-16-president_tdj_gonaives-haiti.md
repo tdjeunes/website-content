@@ -1,5 +1,5 @@
 ---
-title: PRESIDENT TDJ Gonaives-Haiti
+title: PRESIDENT TDJ GONAIVES-HAITI
 nom: Joël D. Augustin
 image: /media/joel_haiti.jpg
 ---

@@ -2,6 +2,9 @@
 title: PRESIDENT NATIONAL TOGO
 nom: ADJDJAFO CYRIAQUE
 image: /media/cyriaque_adjafo.jpg
+x: https://x.com/CAdjafo
+facebook: beta.terredesjeunes.org
+instagram: https://www.linkedin.com/in/cyriaque-adjafo/
 ---
 Terre des Jeunes Togo
 BP.80478  Lomé

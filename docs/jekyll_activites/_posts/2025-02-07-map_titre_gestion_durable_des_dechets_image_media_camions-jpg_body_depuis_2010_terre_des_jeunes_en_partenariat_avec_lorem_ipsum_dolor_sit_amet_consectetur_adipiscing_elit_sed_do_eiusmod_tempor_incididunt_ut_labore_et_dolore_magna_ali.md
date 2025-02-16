@@ -1,5 +1,5 @@
 ---
-title: Gestion durable des déchets Bioénergie Haïti
+title: GESTION DURABLE DES DECHETS BIOENERGIE HAÏTI
 image: /media/camions.jpg
 ---
 **BIOENRGIE DURABLE**

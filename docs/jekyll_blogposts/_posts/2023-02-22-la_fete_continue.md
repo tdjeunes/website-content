@@ -24,4 +24,4 @@ Il s'agira de faire une formation pratique sur l'utilisation des produits phytos
 
 Ce lundi 27/02/2023 .
 
-EPP ADJAME -BINGERVILLE. Il s'agira de faire une formation pratique sur le piquetage, préparation du sol et le sem
+EPP ADJAME -BINGERVILLE. Il s'agira de faire une formation pratique sur le piquetage, préparation du sol et le semis.

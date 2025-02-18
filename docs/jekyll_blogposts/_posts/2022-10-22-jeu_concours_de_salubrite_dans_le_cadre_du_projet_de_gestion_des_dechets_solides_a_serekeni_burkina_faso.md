@@ -8,6 +8,15 @@ img:
   - /media/20221019_162609.jpg
   - /media/20221020_090955.jpg
 ---
-Dans le cadre du projet de gestion des déchets solides dans le village de Sérékeni, commune de Djigouéra, province du Kénédougou, un jeu concours de salubrité: La concession la plus propre! a été initié par l'association SEEPAT et ses partenaires KYNAROU et Fondation kirchmann Main dans la main.\
-A l'issue de ce jeu concours, 15 laurétas ont bénéficié de prix d'encouragement.\
-Après cette activités des théâtres fora de sensibilisation sur l'hygiène, l'assainissement et la gestion des déchets ont été réalisés au profit des élèves et collegiens de Sérékeni. Les élèves qui ont trouvé les bonnes réponses ont également été récompensés.
+L'absence de gestion écologique des déchets solides, qui augmentent continuellement, cause la dégradation de l'environnement et menace la santé publique. Une gestion durable crée de la valeur en transformant les déchets en richesses grâce à la valorisation et au recyclage, générant ainsi des emplois et aidant à combattre la pauvreté. La gestion des déchets solides doit être centrale dans les politiques de développement.
+
+
+Dans les zones urbaines, les déchets ménagers, industriels, agroalimentaires, et autres représentent des ressources sous-exploitées. 
+
+En milieu rural, les ordures ménagères, résidus agricoles et déjections animales peuvent aider à résoudre la déforestation et les conditions précaires des femmes.
+
+
+Sans solutions innovantes, les déchets fermentescibles polluent les ressources naturelles, dégradent le cadre de vie et augmentent les émissions de gaz à effet de serre.
+
+
+Dans le projet de gestion des déchets de Sérékeni, un concours de salubrité a été organisé, récompensant 15 lauréats. Des activités de sensibilisation sur l'hygiène et la gestion des déchets ont également eu lieu, récompensant les élèves ayant trouvé les bonnes réponses.

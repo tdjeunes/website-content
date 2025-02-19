@@ -34,4 +34,9 @@ Mot d’ouverture : Un représentant de la Banque mondiale a introduit la sessio
 
 
 En conclusion, la Banque mondiale a réaffirmé son engagement à prendre en compte les recommandations issues de cette consultation dans l’élaboration du CPF. La session s’est achevée par des remerciements aux participants pour leurs contributions enrichissantes suivi de déjeuner et réseautage.
-Fait à Dakar, le 19 février 2025 Responsable du BE TDJ - SEN IBRAHIMA FAYE
+
+Fait à Dakar, le 19 février 2025 
+
+Responsable du BE TDJ
+
+SEN IBRAHIMA FAYE

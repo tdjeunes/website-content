@@ -1,6 +1,9 @@
 ---
 title: "JOURNÉE DE CONSULTATION AVEC LES ORGANISATIONS DE LA SOCIÉTÉ CIVILE "
 antenne: Sénégal
+categories:
+  - Société civile
+  - Climat
 layout: blog
 tags:
   - Partenariat; priorités nationales définies dans l’Agenda Sénégal 2050;

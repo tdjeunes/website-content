@@ -1,8 +1,14 @@
 ---
-title: ETATS GENERAUX SUR LA MISE EN OEUVRE DE LA GESTION INTEGREE DES
-  RESSOURCES EN EAU (GIRE) AU BURKINA FASO
+title: Etats generaux sur la mise en oeuvre de la gestion integree des
+  ressources en eau (GIRE) au BURKINA FASO
 antenne: Seepat Burkina Faso
+categories:
+  - Eau
+  - Société civile
 layout: blog
+tags:
+  - Web
+  - Burkina
 img:
   - /media/img-20231014-wa0097.jpg
   - /media/img-20231014-wa0101.jpg

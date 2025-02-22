@@ -1,6 +1,9 @@
 ---
-title: "NOTRE ENGAGEMENT POUR L'ENVIRONNEMENT "
+title: Notre engagement pour l'environnement
 antenne: Côte d'ivoire
+categories:
+  - Forêt
+  - Société civile
 layout: blog
 tags:
   - "#environnement"

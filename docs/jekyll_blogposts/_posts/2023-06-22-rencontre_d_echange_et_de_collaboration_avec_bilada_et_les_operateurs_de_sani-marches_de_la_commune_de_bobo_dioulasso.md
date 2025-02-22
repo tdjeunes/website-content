@@ -1,8 +1,12 @@
 ---
-title: RENCONTRE D’ECHANGE ET DE COLLABORATION AVEC BILADA ET LES OPERATEURS DE
-  SANI-MARCHES DE LA COMMUNE DE BOBO DIOULASSO
+title: Rencontre d’échange et de collaboration avec BILADA et les operateurs de
+  Sani-marchés de la commune de BOBO DIOULASSO
 antenne: Seepat Burkina Faso
+categories:
+  - Société civile
 layout: blog
+tags:
+  - Education
 img:
   - /media/img-20230225-wa0029.jpg
 ---

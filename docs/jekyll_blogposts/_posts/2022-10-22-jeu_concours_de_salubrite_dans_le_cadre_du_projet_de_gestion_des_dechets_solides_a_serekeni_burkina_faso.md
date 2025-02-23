@@ -1,8 +1,17 @@
 ---
-title: Jeu concours de salubrité dans le cadre du projet de gestion des déchets
-  solides à Sérékeni/Burkina Faso
+title: Gestion des déchets solides à Sérékeni/Burkina Faso
 antenne: Seepat Burkina Faso
+categories:
+  - Déchets
+  - Société civile
 layout: blog
+tags:
+  - Hygiène
+  - Gestion durable
+  - Valorisation
+  - recyclage
+  - Emplois
+  - Pauvreté
 img:
   - /media/20221020_161020.jpg
   - /media/20221019_162609.jpg

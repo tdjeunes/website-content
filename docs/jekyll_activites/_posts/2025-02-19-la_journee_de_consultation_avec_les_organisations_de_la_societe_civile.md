@@ -1,6 +1,5 @@
 ---
-title: " LA JOURNÉE DE CONSULTATION AVEC LES ORGANISATIONS DE LA SOCIÉTÉ CIVILE
-  AU SENEGAL"
+title: " Consultation CPF (Banque Mondiale) et OSC AU SENEGAL"
 image: /media/senegal_4.jpg
 ---
 Préparation du Cadre de Partenariat Pays (CPF) du Groupe de la Banque mondiale avec le Sénégal

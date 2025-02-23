@@ -1,5 +1,5 @@
 ---
-title: L'education à l'environnement en milieu scolaire EN CÔTE D'IVOIRE
+title: L'éducation à l'environnement en milieu scolaire EN CÔTE D'IVOIRE
 image: /media/dscn1470_fileminimizer_.jpg
 ---
 L'éducation à l'environnement vise à sensibiliser les individus à l'importance de la protection de l'environnement et à encourager des comportements respectueux de la nature. Elle se base sur l'idée que chacun a un rôle à jouer dans la préservation de la planète.

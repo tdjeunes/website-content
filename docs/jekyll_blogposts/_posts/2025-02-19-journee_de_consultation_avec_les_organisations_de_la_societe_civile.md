@@ -1,13 +1,16 @@
 ---
-title: "JOURNÉE DE CONSULTATION AVEC LES ORGANISATIONS DE LA SOCIÉTÉ CIVILE "
+title: Journée de consultation avec les organisations de la société civile
 antenne: Sénégal
 categories:
   - Société civile
   - Climat
 layout: blog
 tags:
-  - Partenariat; priorités nationales définies dans l’Agenda Sénégal 2050;
-    Banque Mondiale
+  - Partenariat; Agenda 2050 Sénégal
+  - Santé
+  - Emploi
+  - La Femme
+  - Banque Mondiale
 img:
   - /media/senegal_4.jpg
   - /media/senegal_3.jpg

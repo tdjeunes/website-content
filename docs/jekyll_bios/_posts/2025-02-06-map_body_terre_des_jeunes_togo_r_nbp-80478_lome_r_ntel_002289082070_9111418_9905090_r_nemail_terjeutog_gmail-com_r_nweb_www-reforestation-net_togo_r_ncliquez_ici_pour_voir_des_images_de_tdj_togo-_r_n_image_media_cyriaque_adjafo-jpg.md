@@ -10,5 +10,5 @@ Terre des Jeunes Togo
 BP.80478  Lomé
 Tel : 002289082070/9111418/9905090
 Email : terjeutog@gmail.com
-Web : www.reforestation.net/togo
+Web : https://www.terredesjeunes.org/togo.html
 Cliquez ici pour voir des images de TDJ Togo.

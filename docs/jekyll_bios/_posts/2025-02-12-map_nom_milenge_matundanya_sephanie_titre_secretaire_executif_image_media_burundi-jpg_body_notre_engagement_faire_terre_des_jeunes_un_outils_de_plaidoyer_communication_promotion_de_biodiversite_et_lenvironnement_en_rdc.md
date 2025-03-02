@@ -3,4 +3,4 @@ title: SECRETAIRE EXECUTIF TDJ RDC
 nom: "Milenge Matundanya  sephanie "
 image: /media/burundi.jpg
 ---
-Notre engagement faire Terre des jeunes un outils de  plaidoyer ,communication, promotion de Biodiversite et l'environnement  en RDC
+Résolument engagé pour un plaidoyer pour la promotion de l'environnement et de la Biodiversité, il est titulaire d’un diplôme de gestion de projet.

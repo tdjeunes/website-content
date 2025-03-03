@@ -1,6 +1,6 @@
 ---
 title: " Consultation CPF (Banque Mondiale) et OSC AU SENEGAL"
-image: /media/senegal_4.jpg
+image: /media/senegal_1.jpg
 ---
 Préparation du Cadre de Partenariat Pays (CPF) du Groupe de la Banque mondiale avec le Sénégal
 Date : Mercredi 19 février 2025 Heure : 10h - 14h Lieu : Siège de la Banque mondiale au Sénégal, Corniche Ouest X Rue Léon Gontran Damas, Dakar

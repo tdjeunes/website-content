@@ -12,7 +12,7 @@ tags:
   - La Femme
   - Banque Mondiale
 img:
-  - /media/senegal_4.jpg
+  - /media/senegal_1.jpg
   - /media/senegal_3.jpg
   - /media/senegal_1.jpg
 ---

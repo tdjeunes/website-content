@@ -23,11 +23,9 @@
         widget: "select"
         multiple: true
         options:
-        - Déchets
-        - Eau
-        - Climat
-        - Forêt
-        - Société civile
+{% for categorie in site.categories.jekyll_categories %}
+        - {{ categorie.title }}
+{% endfor %}
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - label: "Tags (for example programming, web design)"
         name: "tags"

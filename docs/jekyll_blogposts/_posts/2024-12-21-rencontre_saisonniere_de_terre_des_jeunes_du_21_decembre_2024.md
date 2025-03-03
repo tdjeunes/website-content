@@ -1,6 +1,8 @@
 ---
 title: Rencontre saisonnière de Terre des jeunes du 21 décembre 2024
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/screenshot_2024-12-21_at_09.36.20.jpg

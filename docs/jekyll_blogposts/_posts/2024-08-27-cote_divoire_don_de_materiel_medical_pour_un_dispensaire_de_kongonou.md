@@ -1,6 +1,10 @@
 ---
 title: "Côte d'Ivoire: don de matériel médical pour un dispensaire de Kongonou"
 antenne: Côte d'ivoire
+categories:
+  - Sensibilisation
+  - Donation
+  - Environnement
 layout: blog
 img:
   - /media/whatsapp_image_2024-08-17_at_15.27.40.jpeg

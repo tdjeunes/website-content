@@ -1,6 +1,11 @@
 ---
 title: Bourse de 1000 euros pour un projet local
 antenne: Québec
+categories:
+  - Developpement Durable
+  - Donation
+  - Environnement
+  - Ecologie
 layout: blog
 img:
   - /media/screenshot_2022-11-16_at_3.29.11_pm.png

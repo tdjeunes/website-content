@@ -8,10 +8,10 @@ categories:
   - Sensibilisation
 layout: blog
 tags:
-  - "#ApprendreÀFaireDuFeu"
-  - "#ConstruireDesAbris"
-  - "#FamiliarisationAvecPlantes; #SensibilisationEnvironnement"
-  - "#ProtectionDeLEnvironnement"
+  - ApprendreÀFaireDuFeu
+  - ConstruireDesAbris
+  - FamiliarisationAvecPlantes; SensibilisationEnvironnement
+  - ProtectionDeLEnvironnement
 img:
   - /media/20220908_132858_resized.jpg
   - /media/20220913_135103_resized.jpg

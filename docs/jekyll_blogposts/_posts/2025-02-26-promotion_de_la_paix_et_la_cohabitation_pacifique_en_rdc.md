@@ -3,6 +3,7 @@ title: "Promotion de la paix et la cohabitation pacifique en RDC "
 antenne: SOLIFEDE RDC
 categories:
   - Société civile
+  - Sensibilisation
 layout: blog
 tags:
   - la Paix

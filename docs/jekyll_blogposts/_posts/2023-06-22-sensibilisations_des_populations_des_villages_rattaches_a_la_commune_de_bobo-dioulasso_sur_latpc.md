@@ -2,6 +2,11 @@
 title: Sensibilisations des populations des villages rattachés à la commune de
   Bobo-Dioulasso sur l'ATPC
 antenne: Seepat Burkina Faso
+categories:
+  - Sensibilisation
+  - Eau
+  - Developpement Durable
+  - Education
 layout: blog
 img:
   - /media/img-20230524-wa0122.jpg

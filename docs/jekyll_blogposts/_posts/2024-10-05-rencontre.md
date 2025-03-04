@@ -1,6 +1,8 @@
 ---
 title: Grande rencontre saisonnière de Terre des jeunes du 5 octobre 2024
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/2024-10-05-rencontre.jpg

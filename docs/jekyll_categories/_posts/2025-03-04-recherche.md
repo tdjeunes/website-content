@@ -1,3 +1,3 @@
 ---
-title: Recherche
+title: Recherches
 ---

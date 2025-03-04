@@ -1,6 +1,11 @@
 ---
 title: Les Gitans des bois
 antenne: Québec
+categories:
+  - Education
+  - Bénévolat
+  - Forêt
+  - Sensibilisation
 layout: blog
 img:
   - /media/20220908_132858_resized.jpg

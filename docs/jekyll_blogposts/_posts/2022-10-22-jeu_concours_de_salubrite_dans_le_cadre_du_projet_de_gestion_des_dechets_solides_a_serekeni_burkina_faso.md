@@ -4,6 +4,7 @@ antenne: Seepat Burkina Faso
 categories:
   - Déchets
   - Société civile
+  - Environnement
 layout: blog
 tags:
   - Hygiène

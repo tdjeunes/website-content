@@ -1,6 +1,8 @@
 ---
 title: Grande rencontre saisonnière de Terre des jeunes, été 2024
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/screenshot_2024-06-22_at_09.21.58.jpg

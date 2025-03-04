@@ -2,6 +2,8 @@
 title: "Janvier 2023: rencontre virtuelle internationale des antennes de Terre
   des jeunes"
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/screenshot_2023-01-07_at_10.47.07_am.jpg

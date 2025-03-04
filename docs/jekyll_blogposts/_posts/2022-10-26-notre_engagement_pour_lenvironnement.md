@@ -4,6 +4,9 @@ antenne: Côte d'ivoire
 categories:
   - Forêt
   - Société civile
+  - Sensibilisation
+  - Developpement Durable
+  - Education
 layout: blog
 tags:
   - "#environnement"

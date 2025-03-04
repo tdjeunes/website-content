@@ -1,6 +1,8 @@
 ---
 title: Rencontre des antennes de Terre des jeunes
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/capture_d_e_cran_le_2022-10-29_a_12.38.49.png

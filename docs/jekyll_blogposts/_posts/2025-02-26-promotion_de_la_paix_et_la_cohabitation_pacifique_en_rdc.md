@@ -9,7 +9,7 @@ tags:
   - la Paix
   - sécurité
   - Kivu
-  - Soutien psychologique** - Violences
+  - Soutien psychologique - Violences
   - Enrôlement des enfants
 img:
   - /media/rdc_1.jpg

@@ -1,6 +1,6 @@
 ---
 title: PRESIDENT EXECUTIF TERRE DES JEUNES CÔTE D'IVOIRE
-nom: KOUASSI BOHUI MELAIRE
+nom: Kouassi Bohui Melaire
 image: /media/melaire.jpg
 x: https://x.com/BohuiMelair
 facebook: https://web.facebook.com/TerreDesJeunesCoteDivoire

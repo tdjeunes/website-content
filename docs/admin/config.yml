@@ -22,3 +22,4 @@ collections:
 {% include netlifycms_bio.html %}
 {% include netlifycms_partenaire.html %}
 {% include netlifycms_activite.html %}
+{% include netlifycms_textes.html %}

@@ -1,7 +1,10 @@
 ---
-title: "Conférence dialogue sur la contribution des organisations de la société
-  civile (OSC) à la gouvernance sécuritaire au Burkina  Faso "
+title: "Contibution de la société civile (OSC) relative à la sécurité au
+  Burkina  Faso "
 antenne: Seepat Burkina Faso
+categories:
+  - Sensibilisation
+  - Recherches
 layout: blog
 img:
   - /media/img-20231124-wa0061.jpg

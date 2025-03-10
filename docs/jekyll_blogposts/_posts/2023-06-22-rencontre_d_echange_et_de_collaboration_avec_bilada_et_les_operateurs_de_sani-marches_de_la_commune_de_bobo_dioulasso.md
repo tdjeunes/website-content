@@ -1,6 +1,5 @@
 ---
-title: Echange et collaboration avec BILADA et les operateurs de Sani-marchés de
-  la commune de BOBO DIOULASSO
+title: TDJ, BILADA et les operateurs de Sani-marchés Bobo-Dioulasso
 antenne: Seepat Burkina Faso
 categories:
   - Société civile

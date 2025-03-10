@@ -1,7 +1,8 @@
 ---
-title: "Bourse du C.A. janvier 2025: félicitations à SOLIFEDE, gagnant de cette
-  bourse"
+title: "Bourse du C.A. janvier 2025: félicitations à SOLIFEDE"
 antenne: SOLIFEDE RDC
+categories:
+  - Donation
 layout: blog
 img:
   - /media/screenshot_2025-01-19_at_10.10.53.jpg

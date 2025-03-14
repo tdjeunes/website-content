@@ -1,7 +1,10 @@
 ---
-title: formation ces comités par groupe scolaire aux techniques de jardinage et
-  plus particulièrement au compostage avec résidus végétaux
+title: "Formation ces comités scolaire aux techniques de jardinage "
 antenne: Côte d'ivoire
+categories:
+  - Ecologie
+  - Education
+  - Déchets
 layout: blog
 tags:
   - Education; jardin communautaire;Environnement;

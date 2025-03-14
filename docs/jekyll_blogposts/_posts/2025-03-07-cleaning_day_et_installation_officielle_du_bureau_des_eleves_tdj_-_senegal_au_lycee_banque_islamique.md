@@ -1,6 +1,5 @@
 ---
-title: Cleaning Day et installation officielle du Bureau des Élèves TDJ -
-  SENEGAL au Lycée Banque Islamique!
+title: Cleaning Day et installation officielle du bureau du Lycée Banque Islamique
 antenne: Sénégal
 categories:
   - Sensibilisation

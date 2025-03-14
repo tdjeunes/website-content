@@ -1,6 +1,8 @@
 ---
 title: Rapport annuel 2022-2023 de Terre des jeunes transnational
 antenne: Québec
+categories:
+  - Actions internes
 layout: blog
 img:
   - /media/rapport-tdj-couverture-2022-2023.jpg

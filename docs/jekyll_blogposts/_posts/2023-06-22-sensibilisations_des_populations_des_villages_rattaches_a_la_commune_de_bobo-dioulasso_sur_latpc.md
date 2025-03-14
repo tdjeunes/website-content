@@ -1,6 +1,5 @@
 ---
-title: Sensibilisations des populations des villages rattachés à la commune de
-  Bobo-Dioulasso sur l'ATPC
+title: Sensibilisations des villages de la commune de Bobo-Dioulasso sur l'ATPC
 antenne: Seepat Burkina Faso
 categories:
   - Sensibilisation

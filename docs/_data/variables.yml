@@ -1,0 +1,4 @@
+variable:
+  - title: benevolat_page_accueil_titre
+    desc: Dans la section bénévolat sur la page d'accueil
+    val: À propos de Bénévolat

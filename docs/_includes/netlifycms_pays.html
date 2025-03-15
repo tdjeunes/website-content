@@ -1,0 +1,13 @@
+  - name: 'pays'
+    create: true
+    label: 'Pays'
+    folder: 'docs/jekyll_antennes/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - label: 'Nom du pays'
+        name: 'title'
+        widget: 'string'
+      - label: 'Drapeau (prendre 256 flat rounded corners de https://flagdownload.com/)'
+        name: 'drapeau'
+        widget: 'image'
+        required: false

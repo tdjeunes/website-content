@@ -1,8 +1,10 @@
 ---
-logo_image: /media/default-antenna-logo.png
-country: Côte d'Ivoire
 title: TDJ Yakro
+country: Côte d'Ivoire
+country2:
+  - Côte d'Ivoire
 page_url: https://www.terredesjeunes.org/yakro.html
 active: true
+logo_image: /media/default-antenna-logo.png
 ---
 TDJ Yakro

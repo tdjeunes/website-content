@@ -5,7 +5,15 @@
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string', required: false }
-      - { label: 'Country', name: 'country', widget: 'string', required: false }
+      - { label: 'Pays', name: 'country', widget: 'string', required: false }
+      - label: "Pays (v2)"
+        name: country2
+        widget: "select"
+        multiple: true
+        options:
+{% for categorie in site.categories.jekyll_pays %}
+        - {{ categorie.title }}
+{% endfor %}
       - { label: 'Page Url', name: 'page_url', widget: 'string', required: false }
       - { labe;: 'Active', name: 'active', widget: 'boolean', default: true }
       - { label: 'Logo Image (25*25)', name: 'logo_image', widget: 'image', required: false, default: '/media/default-antenna-logo.png' }

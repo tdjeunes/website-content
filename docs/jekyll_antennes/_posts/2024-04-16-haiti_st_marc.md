@@ -1,8 +1,10 @@
 ---
-logo_image: /media/st-marc-logo.png
-country: Haïti
 title: St. Marc (Haïti)
+country: Haïti
+country2:
+  - Haïti
 page_url: https://www.terredesjeunes.org/st-marc-haiti.html
 active: true
+logo_image: /media/st-marc-logo.png
 ---
 St. Marc (Haïti)

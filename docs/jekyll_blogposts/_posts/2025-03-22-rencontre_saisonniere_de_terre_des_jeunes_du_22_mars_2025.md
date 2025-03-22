@@ -51,3 +51,8 @@ On parle du projet de communication: un site web est en cours
 * Une vidéo de chaque antenne pour montrer les activités, on va filmer les jeunes
 
 On s'entend sur le *slogan du 40e*: "Je protège la terre, mon héritage"
+
+Prochaines dates:
+
+* jeudi 5 juin: jour de l'environnement et date du 40e de Terre des jeunes
+* samedi 7 juin: prochaine rencontre saisonnière de Terre des jeunes

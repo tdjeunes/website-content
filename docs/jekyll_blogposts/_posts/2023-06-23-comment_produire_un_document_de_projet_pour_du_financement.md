@@ -1,6 +1,8 @@
 ---
 title: Comment produire un document de projet pour du financement
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Actions internes
 layout: blog

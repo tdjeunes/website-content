@@ -1,6 +1,8 @@
 ---
 title: Projet Dji Sanya phase 2
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
 layout: blog
 img:
   - /media/img-20230603-wa0011.jpg

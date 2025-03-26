@@ -1,6 +1,8 @@
 ---
 title: TDJ Cameroun, partenaire du PNUE pour un projet de synécoculture
 antenne: Cameroun
+antenne2:
+  - Terre des jeunes Cameroun
 categories:
   - Nouvelles technologies
   - Education

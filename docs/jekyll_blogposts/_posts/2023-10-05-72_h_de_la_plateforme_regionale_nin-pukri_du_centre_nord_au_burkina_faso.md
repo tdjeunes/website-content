@@ -1,6 +1,8 @@
 ---
 title: 72 H de la plateforme régionale Nin-Pukri du centre Nord au Burkina Faso
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
 layout: blog
 tags: []
 img:

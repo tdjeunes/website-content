@@ -1,6 +1,8 @@
 ---
 title: "Promotion de la paix et la cohabitation pacifique en RDC "
 antenne: SOLIFEDE RDC
+antenne2:
+  - SOLIFEDE
 categories:
   - Société civile
   - Sensibilisation

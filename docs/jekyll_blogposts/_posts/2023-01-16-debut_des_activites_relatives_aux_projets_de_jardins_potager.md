@@ -1,6 +1,8 @@
 ---
 title: "Debut des activités relatives aux projets de jardins potager "
 antenne: Côte d'ivoire
+antenne2:
+  - Côte d'Ivoire
 categories:
   - Société civile
 layout: blog

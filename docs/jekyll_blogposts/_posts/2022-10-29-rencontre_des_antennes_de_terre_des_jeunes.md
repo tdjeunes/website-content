@@ -1,6 +1,8 @@
 ---
 title: Rencontre des antennes de Terre des jeunes
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Actions internes
 layout: blog

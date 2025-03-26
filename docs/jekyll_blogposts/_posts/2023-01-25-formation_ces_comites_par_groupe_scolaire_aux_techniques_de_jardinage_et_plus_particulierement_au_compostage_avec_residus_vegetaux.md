@@ -1,6 +1,8 @@
 ---
 title: "Formation ces comités scolaire aux techniques de jardinage "
 antenne: Côte d'ivoire
+antenne2:
+  - Côte d'Ivoire
 categories:
   - Ecologie
   - Education

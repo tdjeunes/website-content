@@ -2,6 +2,10 @@
 title: Gestion des déchets solides à Sérékeni dans la commune de Djigouéra au
   Burkina Faso
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
+categories:
+  - Déchets
 layout: blog
 img:
   - /media/img_20231219_120117_166.jpg

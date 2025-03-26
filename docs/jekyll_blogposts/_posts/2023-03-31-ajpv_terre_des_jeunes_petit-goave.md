@@ -1,6 +1,8 @@
 ---
 title: AJPV Terre Des Jeunes Petit-Goâve
 antenne: Haïti
+antenne2:
+  - TDJ Haïti/Ayiti
 layout: blog
 img:
   - /media/banniere_ajpv_terre_des_jeunes_petit-goave.jpg

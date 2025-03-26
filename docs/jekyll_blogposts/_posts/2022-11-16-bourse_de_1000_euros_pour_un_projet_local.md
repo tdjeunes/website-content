@@ -1,6 +1,8 @@
 ---
 title: Bourse de 1000 euros pour un projet local
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Developpement Durable
   - Donation

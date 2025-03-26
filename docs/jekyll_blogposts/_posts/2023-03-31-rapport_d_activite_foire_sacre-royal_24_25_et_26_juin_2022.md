@@ -1,6 +1,8 @@
 ---
 title: Foire Sacré-Royal 24, 25 et 26 juin 2022 / AJPV Terre Des Jeunes Petit-Goâve
 antenne: Haïti
+antenne2:
+  - TDJ Haïti/Ayiti
 categories:
   - Sensibilisation
   - Education

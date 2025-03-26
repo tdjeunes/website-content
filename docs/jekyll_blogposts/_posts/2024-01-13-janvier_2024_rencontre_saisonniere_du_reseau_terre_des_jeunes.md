@@ -1,6 +1,8 @@
 ---
 title: "Janvier 2024: Rencontre saisonnière du réseau Terre des jeunes"
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Actions internes
 layout: blog

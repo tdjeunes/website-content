@@ -1,6 +1,8 @@
 ---
 title: TDJ, BILADA et les operateurs de Sani-marchés Bobo-Dioulasso
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
 categories:
   - Société civile
   - Sensibilisation

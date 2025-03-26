@@ -1,6 +1,8 @@
 ---
 title: "Nov. 2024: Poste à temps partiel en communications pour Terre des jeunes"
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Actions internes
 layout: blog

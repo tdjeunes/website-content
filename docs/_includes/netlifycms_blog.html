@@ -18,6 +18,14 @@
         - "SOLIFEDE RDC"
         - Québec
         - Cameroun
+      - label: "Antenne (v2)"
+        name: antenne2
+        widget: "select"
+        multiple: true
+        options:
+{% for antenne in site.categories.jekyll_antennes %}
+        - {{ antenne.title }}
+{% endfor %}
       - label: "Catégorie"
         name: categories
         widget: "select"

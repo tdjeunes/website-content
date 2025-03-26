@@ -1,6 +1,10 @@
 ---
 title: EVALUER L'IMPACT DE SON PROJET EDUCATIF
 antenne: Côte d'ivoire
+antenne2:
+  - Côte d'Ivoire
+categories:
+  - Education
 layout: blog
 tags:
   - Education au développement durable; Environnement;

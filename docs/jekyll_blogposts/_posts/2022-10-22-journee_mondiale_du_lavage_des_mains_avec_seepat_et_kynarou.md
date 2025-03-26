@@ -1,6 +1,8 @@
 ---
 title: Journée Mondiale du lavage des mains avec SEEPAT et KYNAROU
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
 categories:
   - Eau
   - Société civile

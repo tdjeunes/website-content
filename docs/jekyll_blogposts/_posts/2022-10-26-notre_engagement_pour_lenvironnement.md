@@ -1,6 +1,8 @@
 ---
 title: Notre engagement pour l'environnement
 antenne: Côte d'ivoire
+antenne2:
+  - Côte d'Ivoire
 categories:
   - Forêt
   - Société civile

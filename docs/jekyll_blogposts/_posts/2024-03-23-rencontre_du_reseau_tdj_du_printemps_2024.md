@@ -1,6 +1,8 @@
 ---
 title: Rencontre du réseau TDJ du printemps 2024
 antenne: Québec
+antenne2:
+  - Québec
 categories:
   - Actions internes
 layout: blog

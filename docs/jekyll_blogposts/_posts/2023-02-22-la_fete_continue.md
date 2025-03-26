@@ -1,6 +1,8 @@
 ---
 title: La fête continue
 antenne: Côte d'ivoire
+antenne2:
+  - Côte d'Ivoire
 layout: blog
 tags:
   - Jardin potager

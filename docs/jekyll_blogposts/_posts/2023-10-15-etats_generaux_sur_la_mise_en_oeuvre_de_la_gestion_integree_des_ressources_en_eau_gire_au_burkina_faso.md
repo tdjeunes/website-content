@@ -1,6 +1,8 @@
 ---
 title: "Mise en oeuvre de la gestion integree des ressources en eau (GIRE) "
 antenne: Seepat Burkina Faso
+antenne2:
+  - Seepat
 categories:
   - Eau
   - Société civile

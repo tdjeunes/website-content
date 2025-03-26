@@ -1,6 +1,8 @@
 ---
 title: Journée de consultation avec les organisations de la société civile
 antenne: Sénégal
+antenne2:
+  - TDJ Sénégal
 categories:
   - Société civile
   - Climat

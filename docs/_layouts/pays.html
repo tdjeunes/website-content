@@ -2,4 +2,19 @@
 {% assign page_date = page.date %}
 {% assign page_author = page.author %}
 {% assign page_img = page.drapeau %}
+{% capture region_after %}
+<ul>
+  {% for antenne in site.categories.jekyll_antennes %}
+    {% if antenne.country == page.title %}
+      {% if antenne.active %}
+        <li>
+          <a href="{{ antenne.page_url }}">
+            {{ antenne.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endcapture %}
 {% include fullpage.html %}

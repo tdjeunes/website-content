@@ -1,5 +1,5 @@
 ---
-title: L'avancement des activités relatives à la synoculture au Cameroun
+title: L'avancement des activités de la synoculture au Cameroun
 antenne: Cameroun
 antenne2:
   - Terre des jeunes Cameroun

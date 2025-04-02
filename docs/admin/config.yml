@@ -26,3 +26,4 @@ collections:
 {% include netlifycms_textes.html %}
 {% include netlifycms_variables.html %}
 {% include netlifycms_carousel.html %}
+{% include netlifycms_pages.html %}

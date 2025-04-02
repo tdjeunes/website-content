@@ -5,20 +5,10 @@
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - label: 'Layout'
-        name: 'layout'
-        widget: select
-        options:
-          - { label: "List of events", value: "eventlist" }
-          - { label: "List of blog posts", value: "bloglist" }
-          - { label: "Basic pages", value: "page" }
-      - label: 'Path (for example /privacy-policy/)'
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - label: 'Chemin (par exemple /a-propos-de-nous/)'
         name: 'permalink'
         widget: 'string'
-        {% include netlifycms_validate_path.html %}
-      - label: "Redirect From (for example /some-other-path/ ,/yet-another-path/)"
-        name: "redirect_from"
-        widget: "list"
         {% include netlifycms_validate_path.html %}
       - label: "Images"
         name: "img"

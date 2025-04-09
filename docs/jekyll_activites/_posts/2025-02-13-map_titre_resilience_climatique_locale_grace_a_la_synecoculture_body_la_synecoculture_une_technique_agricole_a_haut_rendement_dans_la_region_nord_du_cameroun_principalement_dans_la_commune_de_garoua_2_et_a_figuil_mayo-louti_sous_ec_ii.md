@@ -1,5 +1,5 @@
 ---
-title: La Synoculture au  CAMEROUN
+title: "La Synoculture "
 titre: RESILIENCE LOCALE GRACE A LA SYNOCULTURE AU CAMEROUN
 image: /media/cameroun.png
 ---

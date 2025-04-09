@@ -1,5 +1,5 @@
 ---
-title: " Consultation CPF (Banque Mondiale) et OSC AU SENEGAL"
+title: " Consultation CPF (Banque Mondiale) et OSC "
 image: /media/senegal_1.jpg
 ---
 Préparation du Cadre de Partenariat Pays (CPF) du Groupe de la Banque mondiale avec le Sénégal

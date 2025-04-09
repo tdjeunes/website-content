@@ -1,5 +1,5 @@
 ---
-title: Gestion de l'eau SEEPAT; BURKINA FASO
+title: "Gestion de l'eau "
 image: /media/cimg8847.jpg
 ---
 L’eau, source de vie et pilier du développement durable, est au cœur des enjeux environnementaux mondiaux. Une gestion durable de l'eau est cruciale pour assurer la survie des populations et la préservation de la biodiversité, face aux défis du changement climatique et de l’augmentation de la population mondiale.
@@ -22,7 +22,7 @@ L’eau, source de vie et pilier du développement durable, est au cœur des enj
 Une gestion avisée de l'eau sécurise l'accès aux besoins humains et économiques, prévient les catastrophes naturelles (inondations, sécheresses), et soutient la biodiversité et les services écosystémiques essentiels.
 La gestion durable de l’eau est ainsi une pierre angulaire du développement durable, garantissant une prospérité à long terme pour la planète et ses habitants.
 
-**I﻿MPLICATION DE "SEEPAT/Terre des jeunes".**
+**I﻿MPLICATION DE "SEEPAT/Terre des jeunes"**
 
 SEEPAT est une association de bénévoles burkinabè dédiée à la protection de l’environnement, à l’accès à l’eau potable et à l’assainissement. Son siège social se situe à Bobo-Dioulasso, rue TIEMOUNOU D Vinama, secteur n°21, au Burkina Faso. Elle comprend une section jeunesse intitulée "SEEPAT/Terre des jeunes".
 

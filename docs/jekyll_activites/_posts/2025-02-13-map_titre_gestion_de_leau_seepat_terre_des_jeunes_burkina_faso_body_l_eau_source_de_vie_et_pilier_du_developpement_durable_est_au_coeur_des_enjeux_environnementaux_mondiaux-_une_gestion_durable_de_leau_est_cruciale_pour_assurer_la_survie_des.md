@@ -1,6 +1,8 @@
 ---
 title: "Gestion de l'eau "
 image: /media/cimg8847.jpg
+documents:
+  - /media/generic_pdf.pdf
 ---
 L’eau, source de vie et pilier du développement durable, est au cœur des enjeux environnementaux mondiaux. Une gestion durable de l'eau est cruciale pour assurer la survie des populations et la préservation de la biodiversité, face aux défis du changement climatique et de l’augmentation de la population mondiale.
 

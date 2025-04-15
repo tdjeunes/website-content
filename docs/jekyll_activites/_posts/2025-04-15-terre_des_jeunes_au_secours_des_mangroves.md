@@ -1,5 +1,5 @@
 ---
-title: AU SECOURS DES MANGROVES
+title: Au secours des mangroves
 image: /media/mangrove_1.jpg
 ---
 Les mangroves sont des écosystèmes essentiels pour la biodiversité et la lutte contre le changement climatique. À l'échelle mondiale, il reste environ **147 000 km² de mangroves**, mais elles continuent de subir des pertes dues à des activités humaines et des phénomènes naturels. 

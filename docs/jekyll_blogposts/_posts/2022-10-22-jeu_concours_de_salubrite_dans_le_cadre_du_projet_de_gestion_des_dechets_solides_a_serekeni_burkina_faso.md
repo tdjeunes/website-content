@@ -16,8 +16,7 @@ tags:
   - Emplois
   - Pauvreté
 redirect_from:
-  - /jekyll_blogposts/nouvelles%20technologies/agriculture/environnement/developpement%20durable/education/2025/04/01/lavancement_des_activites_relatives_a_la_synoculture_au_cameroun.html2
-  - /test-redirect/
+  - /test-redirect2/
 img:
   - /media/20221020_161020.jpg
   - /media/20221019_162609.jpg

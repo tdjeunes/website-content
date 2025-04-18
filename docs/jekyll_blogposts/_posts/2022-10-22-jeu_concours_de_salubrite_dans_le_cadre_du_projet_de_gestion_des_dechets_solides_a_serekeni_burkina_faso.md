@@ -15,6 +15,9 @@ tags:
   - recyclage
   - Emplois
   - Pauvreté
+redirect_from:
+  - /jekyll_blogposts/nouvelles%20technologies/agriculture/environnement/developpement%20durable/education/2025/04/01/lavancement_des_activites_relatives_a_la_synoculture_au_cameroun.html2
+  - /test-redirect/
 img:
   - /media/20221020_161020.jpg
   - /media/20221019_162609.jpg
@@ -23,7 +26,7 @@ img:
 L'absence de gestion écologique des déchets solides, qui augmentent continuellement, cause la dégradation de l'environnement et menace la santé publique. Une gestion durable crée de la valeur en transformant les déchets en richesses grâce à la valorisation et au recyclage, générant ainsi des emplois et aidant à combattre la pauvreté. La gestion des déchets solides doit être centrale dans les politiques de développement.
 
 
-Dans les zones urbaines, les déchets ménagers, industriels, agroalimentaires, et autres représentent des ressources sous-exploitées. 
+Dans les zones urbaines, les déchets ménagers, industriels, agroalimentaires, et autres représentent des ressources sous-exploitées.
 
 En milieu rural, les ordures ménagères, résidus agricoles et déjections animales peuvent aider à résoudre la déforestation et les conditions précaires des femmes.
 

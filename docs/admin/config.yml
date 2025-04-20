@@ -18,12 +18,3 @@ public_folder: "/media"
 collections:
 {% include netlifycms_categories.html %}
 {% include netlifycms_blog.html %}
-{% include netlifycms_pays.html %}
-{% include netlifycms_antenne.html %}
-{% include netlifycms_bio.html %}
-{% include netlifycms_partenaire.html %}
-{% include netlifycms_activite.html %}
-{% include netlifycms_textes.html %}
-{% include netlifycms_variables.html %}
-{% include netlifycms_carousel.html %}
-{% include netlifycms_pages.html %}
